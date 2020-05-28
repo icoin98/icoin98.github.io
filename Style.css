@@ -1,0 +1,132 @@
+/* CSS Document */
+{
+	margin: 0;
+	padding: 0;
+	
+}
+#backround{
+	width: 100%;
+	height: 1700px;
+	background: black;
+	margin: 0 auto 0 auto;
+}
+.header-L{
+	width: 100%;
+	height: 60px;
+	background:#454545;
+}
+.header-L>ul{
+	list-style: none;
+	margin: 0;
+	padding: 25px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.header-L>ul>li{
+	color: white;
+	float: left;
+	margin-right: 50px;
+}
+.body{
+	width: 100%;
+	height: 280px;
+	background: #665F5F;
+}
+.body img{
+	margin-top: 10px;
+}
+.body p{color: white;
+	text-align: center;
+	font-size: 12px;
+}
+.Skill{
+	height: 400px;
+	width: 400px;
+	background: #3F3F3F;
+	margin-left: 20px;
+}
+.Skill img{
+	width: 380px;
+	height: auto;
+	margin-left: 10px;
+	
+}
+.Skill h1{
+	color:yellow;
+	text-align: center;
+	font-size: 52px;
+	
+}
+.Skill p{
+	color: white;
+	text-align:left;
+	font-size: 20px;
+	margin-left: 20px;
+}
+.Flim{
+	height: 400px;
+	width: 400px;
+	background: #3F3F3F;
+	margin-left: 20px;
+}
+.Flim img{
+	width: 380px;
+	height: auto;
+	margin-left: 5px;
+	
+}
+.Flim h1{
+	color:yellow;
+	text-align: center;
+	font-size: 52px;
+	
+}
+.Flim p{
+	color: white;
+	text-align:left;
+	font-size: 20px;
+	margin-left: 20px;
+}
+.Designer{
+	float: right;
+	height: 440px;
+	width: 400px;
+	background: #3F3F3F;
+	margin-right: 20px;
+}
+.Designer img{
+	width: 380px;
+	height: auto;
+	margin-left: 10px;
+	
+}
+.Designer h1{
+	color:yellow;
+	text-align: center;
+	font-size: 52px;
+	
+}
+.Designer p{
+	color: white;
+	text-align:left;
+	font-size: 20px;
+	margin-left: 20px;
+}
+.contact{
+	height: 10px;
+	width: auto;
+	background: black;
+	padding-top: 10px;
+	padding-bottom: 150px;
+}
+.contact h1{
+	margin-top: 0px;
+	margin-left: 50px;
+	color:gray;
+	font-size:18px;
+	
+	
+}
+
+
+
